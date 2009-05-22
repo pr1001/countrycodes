@@ -1,0 +1,1 @@
+countrycodes is a simple Python library to get ISO 3166 country codes. It can also query the Open Country Codes site (http://opencountrycodes.appspot.com) to check for updates since its included data. countrycodes is copyright Peter Robinett, 2009 and is released under the MIT license.
